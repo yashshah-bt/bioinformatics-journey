@@ -1,16 +1,24 @@
 # Bioinformatics Journey 🧬
 
-Hi, I'm Yash, a BTech Biotechnology student.
+Hi, I'm Yash, a 1st-year BTech Biotechnology student.
 
-## My Goal
-To pursue a fully funded PhD in Bioinformatics + AI.
+## 🎯 Goal
+To pursue a fully funded PhD in Bioinformatics + AI from US/UK.
 
-## 6-Month Roadmap
+## 🗺️ 6-Month Roadmap
 - [x] October: Core Python
-- [ ] November: NumPy, Pandas
-- [ ] December: Biopython
+- [ ] November: NumPy, Pandas, Matplotlib
+- [ ] December: Biopython & Biological Data
 - [ ] January: First Bioinformatics Project
 - [ ] February-May: Research Internship & Freelancing
 
-## Progress Log
-- **Sep 2026**: Created GitHub, learned basic Python, uploaded first Colab notebook.
+## 🛠️ Skills I'm Building
+- Python (Beginner ➡️ Intermediate)
+- Data Analysis (Pandas, NumPy)
+- Version Control (Git, GitHub)
+
+## 📈 Progress Log
+- **Sep 2026**: Created GitHub & Google Colab. Wrote first Python script. Uploaded first notebook.
+
+## 🔗 Connect with me
+- LinkedIn: []
