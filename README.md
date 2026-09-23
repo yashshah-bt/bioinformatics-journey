@@ -21,4 +21,4 @@ To pursue a fully funded PhD in Bioinformatics + AI from US/UK.
 - **Sep 2026**: Created GitHub & Google Colab. Wrote first Python script. Uploaded first notebook.
 
 ## 🔗 Connect with me
-- LinkedIn: []
+- LinkedIn: [www.linkedin.com/in/yashshah-bt]
