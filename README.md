@@ -2,8 +2,11 @@
 
 Hi, I'm Yash, a 1st-year BTech Biotechnology student.
 
-## 🎯 Goal
-To pursue a fully funded PhD in Bioinformatics + AI from US/UK.
+## 🎯 Vision
+To build a career at the intersection of Bioinformatics and AI, solving real biological problems using computational tools.
+
+## 🚀 Current Goal
+To secure a fully funded PhD in Bioinformatics + AI (US/UK) to pursue advanced research and build a strong foundation for this vision.
 
 ## 🗺️ 6-Month Roadmap
 - [x] October: Core Python
